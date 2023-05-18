@@ -24,13 +24,13 @@
 
 ## ✔ 주요 담당기능
 <!-- 헤더 -->
-<h4 style="background-color:#fff5b1;">Header</h4>
+**Header**
 * 스크롤에 따른 헤더 숨기기 및 표시하기
 * 현재 날짜 표기
 * 로그인 아이콘 제작
 
-<!-- 메인페이지 -->
-<h4 style="background-color:#fff5b1;">메인 페이지</h4>
+**메인페이지**
+<!-- <h4 style="background-color:#fff5b1;">메인 페이지</h4> -->
 * 배열과 for문을 이용한 달력 구현
 * Split() 함수를 이용해 문자열을 분할하는 Hover 이벤트 <br/><br/>
 
