@@ -1,7 +1,7 @@
 # Hogwarts-School
 
 해리포터 세계관 속 호그와트 마법학교 - 반응형 웹사이트<br/>
-**배포주소** : <https://jihana030.github.io/Hogwarts_School/views/index.html/> <br/> <br/>
+**배포주소** : <https://bucolic-squirrel-37fca3.netlify.app/> <br/> <br/>
 
 ![poster](https://github.com/CircleYoo/Hogwarts-School/blob/master/static/img/circle/common/Thumbnail.jpg) 
 
